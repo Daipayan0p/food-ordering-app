@@ -18,13 +18,13 @@ A modern and user-friendly **food ordering app** that allows users to browse men
 ## 🖼️ App Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/home.png)
+<img src="screenshots/home.png" alt="Home Screen" width="300">
+<img src="screenshots/home1.png" alt="Home Screen" width="300">
 
-![Menu](screenshots/home1.png)
 
 ### Checkout
-![Checkout](screenshots/checkout.png)
-![Checkout](screenshots/checkout1.png)
+<img src="screenshots/checkout.png" alt="Home Screen" width="300">
+<img src="screenshots/checkout1.png" alt="Home Screen" width="300">
 
 ---
 
